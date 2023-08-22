@@ -1,10 +1,12 @@
+package componenta.utils;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
 
-import interfaces.Table;
+import componenta.interfaces.Table;
 
 public class Reader {
     private String filePath;
