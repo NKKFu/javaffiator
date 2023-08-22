@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaffiator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaffiator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
